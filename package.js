@@ -5,5 +5,5 @@ Package.describe({
 Package.on_use(function (api, where) {
   api.use("http");
   api.add_files('dota2.js', ['client', 'server']);
-  api.export("Dota2");
+  api.export("Dota2", 'server');
 });

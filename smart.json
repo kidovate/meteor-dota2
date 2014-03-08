@@ -3,7 +3,7 @@
   "description": "Access to the API for Dota 2",
   "homepage": "http://github.com/kidovate/meteor-dota2",
   "author": "Christian Stewart <kidovate@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/kidovate/meteor-dota2.git",
   "packages": {}
 }
