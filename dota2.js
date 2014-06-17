@@ -1,7 +1,7 @@
 Dota2 = function(apikey) {
   return {
     apikey: apikey,
-    matchHistory: function(filters){
+    matchHistory: function(filters) {
       if (filters == undefined) { 
         filters = {}; 
       }
